@@ -20,6 +20,8 @@ public class AppTest
         super( testName );
 
         System.out.println("Test");
+        System.out.println("test");
+        System.out.println("Test");
     }
 
     /**
